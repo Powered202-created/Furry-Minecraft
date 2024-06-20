@@ -11,7 +11,7 @@
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
-# sa		  South America (São Paulo
+# sa		  South America (São PauloPoulo
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
 
